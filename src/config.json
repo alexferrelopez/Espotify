@@ -1,0 +1,7 @@
+{
+  "username": "user",
+  "password": "Zi7HZymy",
+  "ip": "localhost",
+  "port": 3306,
+  "database": "RDS_Database"
+}
